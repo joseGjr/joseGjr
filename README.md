@@ -6,9 +6,9 @@
 
 Olá! me chamo Jos Jr . tudo bem?
 
-- 🔭 Hoje sou estágiario na Defensoria Pública do estado do Maranhão . 
+- 🔭Atualmente sou estágiario na Degensoria pública do estado do Maranhão.
+- Suporte técnico / redes.
 - 🌱 Estou estudando Flutter, programação web e BD postgres.
-- 👯
 - 🤔 Como estudante e profissional da área busco trabalhar em projetos dev.
 - 📫 Contato: jratividades@hotmail.com ou 98985363607
 - 😄 Pronouns:Ele/dele
