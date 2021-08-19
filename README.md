@@ -8,8 +8,8 @@ Olá! me chamo Jos Jr . tudo bem?
 - 🔭 Hoje sou estágiario na Defensoria Pública do estado do Maranhão . 
 - 🌱 Estou estudando Flutter, programação web e BD postgres.
 - 👯
-- 🤔 Buscando oportunidades em projetos
-- 📫  Contato: jratividades@hotmail.com ou 98985363607
+- 🤔 Como estudante e profissional da área busco trabalhar em projetos dev.
+- 📫 Contato: jratividades@hotmail.com ou 98985363607
 - 😄 Pronouns:Ele/dele
 
  <div>
@@ -21,12 +21,7 @@ Olá! me chamo Jos Jr . tudo bem?
   <div> 
 
   <a href="https://www.instagram.com/jg._junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 
-  <a href = "mailto:tubabajr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <a href="https://linkedin.com/in/josé-guiomar-silva-jr-1a968b198
+   <a href = "mailto:tubabajr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://linkedin.com/in/josé-guiomar-silva-jr-1a968b198
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
