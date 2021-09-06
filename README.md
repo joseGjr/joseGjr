@@ -10,9 +10,9 @@ Olá! me chamo Jos Jr . tudo bem?
 - 😄 Pronouns:Ele/dele
 
     <div><div>
-      <img src="https://komarev.com/ghpvc/?username=joseGjr&color=green" alt="joseGjr" />
+      <img src="https://komarev.com/ghpvc/?username=joseGjr&color=blue" alt="joseGjr" />
       <div href="https://github.com/joseGjr">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=alto contraste&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=darcula"/>
         <link rel = "stylesheet" href = "<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
     
