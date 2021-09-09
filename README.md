@@ -4,8 +4,8 @@ Olá! me chamo Jos Jr . tudo bem?
 
 - 🔭Atualmente sou estágiario na Degensoria pública do estado do Maranhão.
 - Suporte técnico / redes.
-- 🌱 Estou estudando Flutter, programação web e BD postgres.
-- 🤔 Como estudante e profissional da área busco trabalhar em projetos dev.
+- 🌱 Atualmente html css Js.
+- 🤔 Como estudante e profissional da área ,estou buscando oportunidades em desenvolvimento.
 - 📫 Contato: jratividades@hotmail.com ou 98985363607
 - 😄 Pronouns:Ele/dele
 
