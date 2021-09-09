@@ -1,7 +1,5 @@
 ### Olá tudo bem ? sou José Jr 👋
 
-Olá! me chamo Jos Jr . tudo bem?
-
 - 🔭Atualmente sou estágiario na Degensoria pública do estado do Maranhão.
 - Suporte técnico / redes.
 - 🌱 Atualmente html css Js.
