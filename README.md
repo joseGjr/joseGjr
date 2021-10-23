@@ -9,7 +9,9 @@
 - 📱 jratividades@hotmail.com 98985363607</b>
 
 
-    <div><div>
+    <div>
+    
+    <div>
       <img src="https://komarev.com/ghpvc/?username=joseGjr&color=yellow" alt="joseGjr" />
       <div href="https://github.com/joseGjr">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -31,4 +33,4 @@
      <a href = "mailto:tubabajr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
      <a href="https://linkedin.com/in/josé-guiomar-silva-jr-1a968b198
   " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=silver" target="_blank"></a> 
-   
+  
