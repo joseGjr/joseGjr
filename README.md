@@ -2,7 +2,7 @@
 
  <b> ![image](https://user-images.githubusercontent.com/69606974/138560197-d21e5d4c-a742-49e8-9f3f-58b720e6c594.png)
 
-- 🌐 Atualmente sou estágiario na Degensoria pública do estado do Maranhão.
+- 🌐 Atualmente sou estágiario na Defensoria pública do estado do Maranhão.
 - Suporte técnico / redes.
 - 💻 Atualmente estudando front end.
 - 🤔 Buscando projetos front end.
@@ -10,10 +10,10 @@
 
 
     <div><div>
-      <img src="https://komarev.com/ghpvc/?username=joseGjr&color=blue" alt="joseGjr" />
+      <img src="https://komarev.com/ghpvc/?username=joseGjr&color=yellow" alt="joseGjr" />
       <div href="https://github.com/joseGjr">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=radical"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=highcontrast"/>
         <link rel = "stylesheet" href = "<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
     
     </div>
