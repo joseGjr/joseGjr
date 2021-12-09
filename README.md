@@ -12,7 +12,7 @@
 
 
     <div>
-    
+    <hr>
     <div>
       <img src="https://komarev.com/ghpvc/?username=joseGjr&color=yellow" alt="joseGjr" />
       <div href="https://github.com/joseGjr">
@@ -22,7 +22,7 @@
     
     </div>
    
-   
+   <hr>
    
     <div style="display: inline_block"><br>
       <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
@@ -31,10 +31,11 @@
       <img align="center" alt="joseGjr-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </div>
     <br>
-    <br>
+   <hr>
   
     <a href="https://www.instagram.com/jg._junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
      <a href = "mailto:tubabajr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
      <a href="https://linkedin.com/in/josé-guiomar-silva-jr-1a968b198
   " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=silver" target="_blank"></a> 
   
+<hr>
