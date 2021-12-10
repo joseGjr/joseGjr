@@ -7,10 +7,6 @@
 - 💻 Atualmente estudando front end.
 - 🤔 Buscando projetos front end.
 - 📱 jratividades@hotmail.com 98985363607</b>
-
-
-
-
     <div>
     <hr>
     <div>
