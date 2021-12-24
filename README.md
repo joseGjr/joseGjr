@@ -1,10 +1,10 @@
 <h1> <i>JOSÉ G.S. JÚNIOR 👋</i></h1>
 
- <b> ![image](https://user-images.githubusercontent.com/69606974/138560197-d21e5d4c-a742-49e8-9f3f-58b720e6c594.png)
+ <b> ![image](https://media0.giphy.com/media/l378kgPmLyABZXrlC/200w.webp)
 
 - 🌐 Atualmente sou estágiario na Defensoria pública do estado do Maranhão.
 - Suporte técnico / redes.
-- 💻 Atualmente estudando front end.
+- 💻 Desenvolvedor front end.
 - 🤔 Buscando projetos front end.
 - 📱 jratividades@hotmail.com 98985363607</b>
     <div>
@@ -17,7 +17,7 @@
         <link rel = "stylesheet" href = "<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
     
     </div>
-   
+   <b >Linguagens / frameworks </b>                                                                                                                                 
    <hr>
    
     <div style="display: inline_block"><br>
