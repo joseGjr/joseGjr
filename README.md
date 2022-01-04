@@ -27,6 +27,7 @@
       <img align="center" alt="joseGjr-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img <img align="center" alt="joseGjr-Java Script" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img  <img align="center" alt="joseGjr-Bootstrap" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+      <img  <img align="center" alt="joseGjr-React" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 
                                                                                                                                                    
