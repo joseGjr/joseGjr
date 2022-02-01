@@ -1,19 +1,27 @@
-<h1> <i>JOSÉ G.S. JÚNIOR 👋</i></h1>
+### Hey! Welcome to my profile on Github
 
- <b> ![image](https://media0.giphy.com/media/l378kgPmLyABZXrlC/200w.webp)
+My name is José Jr. and I'm a Full Stack Developer.
 
-- 🌐 Atualmente sou estágiario na Defensoria pública do estado do Maranhão.
-- Suporte técnico / redes.
-- 💻 Desenvolvedor front end.
-- 🤔 Buscando projetos front end.
-- 📱 jratividades@hotmail.com 98985363607</b>
+- ✅ Html / CSS / Java Script .
+- 📕 Learning React.js, Java Script .
+- 📖 I have interest in Flutter.
+
+# Português
+
+### Olá! Bem vindo ao meu Github
+
+Meu nome é José Jr. e sou Desenvolvedor Front End.
+
+- ✅ Html / CSS / Java Script .
+- 📕 Learning React.js, Java Script .
+- 📖 I have interest in Flutter.
     <div>
     <hr>
     <div>
-      <img src="https://komarev.com/ghpvc/?username=joseGjr&color=yellow" alt="joseGjr" />
+      <img src="https://komarev.com/ghpvc/?username=joseGjr&color=blue" alt="joseGjr" />
       <div href="https://github.com/joseGjr">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=highcontrast"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=blue"/>
         <link rel = "stylesheet" href = "<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
     
     </div>
