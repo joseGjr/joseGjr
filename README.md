@@ -2,7 +2,7 @@
 
 My name is José Jr. and I'm a Full Stack Developer.
 
-- ✅ Html / CSS / Java Script .
+- ✅ Html / CSS / Java Script/ Python /Java .
 - 📕 Learning React.js, Java Script .
 - 📖 I have interest in Flutter.
 
