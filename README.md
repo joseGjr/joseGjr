@@ -1,16 +1,16 @@
 ### Hey! Welcome to my profile on Github
 
-My name is José Jr. and I'm a Full Stack Developer.
+My name is José Jr. and I'm a Developer.
 
 - ✅ Html / CSS / Java Script/ Python /Java .
-- 📕 Learning React.js, Java Script .
+- 📕 Learning React.js, Java Script, Java .
 - 📖 I have interest in Flutter.
 
 # Português
 
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é José Jr. e sou Desenvolvedor Front End.
+Meu nome é José Jr. e sou Desenvolvedor.
 
 - ✅ Html / CSS / Java Script .
 - 📕 Learning React.js, Java Script .
@@ -30,15 +30,13 @@ Meu nome é José Jr. e sou Desenvolvedor Front End.
    
     <div style="display: inline_block"><br>
       <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-      <img align="center" alt="joseGjr-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="joseGjr-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="joseGjr-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img align="center" alt="joseGjr-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+      <img align="center" alt="joseGjr-JAVA" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
+      <img align="center" alt="joseGjr-PYTHON" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
   
-      <img  <img align="center" alt="joseGjr-Bootstrap" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-
-   
-      
-
-
                                                                                                                                                    
     </div>
     <br>
