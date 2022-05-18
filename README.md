@@ -39,7 +39,7 @@ Meu nome é José Jr. e sou Desenvolvedor.
     <br>
    <hr>
   
-    <a href="https://www.instagram.com/jg._junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+    <a href="https://www.instagram.com/josejr_silva_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
      <a href = "mailto:tubabajr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
      <a href="https://linkedin.com/in/josé-guiomar-silva-jr-1a968b198
   " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=silver" target="_blank"></a> 
