@@ -2,7 +2,7 @@
 
 My name is José Jr. and I'm a Developer.
 
-- ✅ Html / CSS / Java Script/ Python /Java .
+- ✅ Html / CSS / Python /Java .
 - 📕 Learning React.js, Java Script, Java .
 - 📖 I have interest in Flutter.
 
@@ -30,14 +30,11 @@ Meu nome é José Jr. e sou Desenvolvedor.
    
     <div style="display: inline_block"><br>
       <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+        <img align="center" alt="joseGjr-PHYTON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="joseGjr-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
       <img align="center" alt="joseGjr-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img align="center" alt="joseGjr-JAVA" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
-      <img align="center" alt="joseGjr-PYTHON" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-          
-  
-                                                                                                                                                   
+                                                                                                                                                     
     </div>
     <br>
    <hr>
