@@ -12,7 +12,7 @@ My name is José Jr. and I'm a Developer.
 
 Meu nome é José Jr. e sou Desenvolvedor.
 
-- ✅ Html / CSS / Java Script .
+- ✅ Html / CSS / Java / Python .
 - 📕 Learning React.js, Java Script .
 - 📖 I have interest in Flutter.
     <div>
