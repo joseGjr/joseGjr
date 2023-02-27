@@ -2,9 +2,9 @@
 
 My name is José Jr. and I'm a Developer.
 
-- ✅ Html / CSS / Python /Java .
-- 📕 Learning React.js, Java Script, Java .
-- 📖 I have interest in Flutter.
+- ✅ Html / CSS / JAVA /SPRINGBOOT / POSTGRESQL.
+- 📕 Learning  ANGULAR
+- 📖 I have interest in projects java
 
 # Português
 
@@ -12,9 +12,9 @@ My name is José Jr. and I'm a Developer.
 
 Meu nome é José Jr. e sou Desenvolvedor.
 
-- ✅ Html / CSS / Java / Python .
-- 📕 Learning React.js, Java Script .
-- 📖 I have interest in Flutter.
+- ✅ Html / CSS / Java /SpringBoot / POSTGRESQL
+- 📕 Learning  ANGULAR 
+- 📖 I have  interesse em JAVA e projetos relacionados.
     <div>
     <hr>
     <div>
