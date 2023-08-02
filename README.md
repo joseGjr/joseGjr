@@ -1,10 +1,8 @@
-My name is José Jr. and I'm a Developer.
-
-- ✅ Html / CSS / JAVA /SPRINGBOOT / POSTGRESQL.
-- 📕 Learning ANGULAR
-- 📖 I have interest in projects java
-
-# Português
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=blue"/>
+</div>
 
 ### Olá! Bem vindo ao meu Github
 
