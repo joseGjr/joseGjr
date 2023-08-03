@@ -11,7 +11,8 @@ Meu nome é José Jr. e sou Desenvolvedor.
 - ✅ Html / CSS / Java /SpringBoot / POSTGRESQL
 - 📕 Learning ANGULAR
 - 📖 I have interesse em JAVA e projetos relacionados.
-                                                                                   
+ <br>
+ <hr>                                                                                  
  <b>Tecnilogias que uso no meu dia  </b>
  <hr>
  
