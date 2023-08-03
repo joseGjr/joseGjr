@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/joseGjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseGjr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ### Olá! Bem vindo ao meu Github
