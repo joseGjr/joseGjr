@@ -12,7 +12,7 @@ Meu nome é José Jr. e sou Desenvolvedor.
 - 📕 Learning ANGULAR
 - 📖 I have interesse em JAVA e projetos relacionados.
                                                                                    
- <b>Linguagens / frameworks </b>
+ <b>Tecnilogias que uso no meu dia  </b>
  <hr>
  
 <div>
