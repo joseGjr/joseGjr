@@ -4,7 +4,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseGjr&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
-### Olá! Bem vindo ao meu Github
+### Olá me chamo José Jr. bem vindo ao meu Github.
+  <hr>
+    <div>
+      <a href="https://www.instagram.com/josejr_silva_/" target="_blank"><img
+          src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"
+          target="_blank"></a>
+      <a href="mailto:tubabajr@gmail.com"><img
+          src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black"
+          target="_blank"></a>
+      <a href="https://linkedin.com/in/josé-guiomar-silva-jr-1a968b198
+" target="_blank"><img
+          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=silver"
+          target="_blank"></a>
+    </div>
+
 
 Meu nome é José Jr. e sou Desenvolvedor.
 
@@ -25,16 +39,4 @@ Meu nome é José Jr. e sou Desenvolvedor.
   <img align="center" alt="joseGjr-ANGULAR" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
   <div><br>
-    <hr>
-    <div>
-      <a href="https://www.instagram.com/josejr_silva_/" target="_blank"><img
-          src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"
-          target="_blank"></a>
-      <a href="mailto:tubabajr@gmail.com"><img
-          src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black"
-          target="_blank"></a>
-      <a href="https://linkedin.com/in/josé-guiomar-silva-jr-1a968b198
-" target="_blank"><img
-          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=silver"
-          target="_blank"></a>
-    </div>
+  
