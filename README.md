@@ -36,7 +36,7 @@ Meu nome é José Jr. e sou Desenvolvedor.
     <img align="center" alt="joseGjr-JAVA" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="joseGjr-SPRING" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
     <img align="center" alt="joseGjr-POSTGRESQL" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-    
+    <img align="center" alt="joseGjr-JAVASCRIPT" height="60" width="60"src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
   </div>
   <div><br>
   
