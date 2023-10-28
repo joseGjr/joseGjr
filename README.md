@@ -27,7 +27,7 @@ Meu nome é José Jr. e sou Desenvolvedor.
 - 📖 I have interesse em JAVA e projetos web relacionados.
  <br>
  <hr>                                                                                  
- <b>Tecnilogias que uso no meu dia  </b>
+ <b>Tecnologias que uso no meu dia  </b>
  <hr>
  
 <div>
