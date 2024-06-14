@@ -22,7 +22,7 @@
 
 Meu nome é José Jr. e sou Desenvolvedor.
 
-- ✅ Html / CSS / Java /SpringBoot / POSTGRESQL
+- ✅ Html / CSS / Java Script / ReactJs / Java /SpringBoot / POSTGRESQL
 - 📕 Learning Spring , React
 - 📖 I have interesse em JAVA e projetos web relacionados.
  <br>
