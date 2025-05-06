@@ -1,5 +1,8 @@
 <h1 align="center">José Guiomar Jr..</h1>
-<h3 align="center">**Quality Assurance (QA)**.</h3>
+<h3 align="center">Quality Assurance (QA).</h3>
+<p>Oi, tudo bem? Sou José Jr. [Tubarão], Bacharel em Sistemas de Informação. Minha jornada começou no suporte helpdesk, onde adquiri uma base sólida em soluções técnicas e atendimento ao cliente. Essa experiência me impulsionou a evoluir para a área de desenvolvimento de software, onde descobri minha verdadeira paixão.
+
+Sou movido pela curiosidade e pela vontade constante de me aprimorar. Estou sempre em busca de novas oportunidades para expandir minhas habilidades e contribuir de forma significativa em projetos desafiadores. Acredito que minha capacidade de adaptação, combinada com uma abordagem orientada a resultados, pode ser um grande diferencial para empresas que visam a melhoria contínua em suas práticas de desenvolvimento de software.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josegjr&label=Profile%20views&color=0e75b6&style=flat" alt="josegjr" /> </p>
 
